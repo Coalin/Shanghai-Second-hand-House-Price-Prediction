@@ -1,6 +1,10 @@
 # UI of Shanghai Second-hand House Price Prediction [![License](https://img.shields.io/badge/license-MIT-blue.svg)](./LICENSE.md)
 This is a Course Project for Data Mining in School of Data Science, Fudan University.</br>
 
+### Requirements: 
+* **Tensorflow r1.0.1**
+* Python 3.6
+
 ### Training data:
 Crawled from [Centanet](http://sh.centanet.com/) at April 2018.</br>
 
