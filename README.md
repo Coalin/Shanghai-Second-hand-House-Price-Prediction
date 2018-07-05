@@ -1,5 +1,5 @@
 # UI of Shanghai Second-hand House Price Prediction [![License](https://img.shields.io/badge/license-MIT-blue.svg)](./LICENSE.md)
-This is a Course Project for Data Mining in School of Data Science, Fudan University.</br>
+This is a **Course Project** for Data Mining(DATA620007) in School of Data Science, Fudan University.</br>
 
 ### Requirements: 
 * **Tensorflow 1.0.1**
@@ -9,9 +9,9 @@ This is a Course Project for Data Mining in School of Data Science, Fudan Univer
 Crawled from [Centanet](http://sh.centanet.com/) at April 2018.</br>
 
 ### Model:
-Structure: 2 Hidden-layer Full Connect Neural Network with 200 nodes each, as well as a Dropout with keep ratio of 75%.</br> 
-Epoch: 10000</br>
-MSE(on testing set): < 0.03
+**Structure**: Two-hidden-layer Full Connect Neural Network with 200 nodes and ReLU for each, as well as a Dropout with keep ratio of 75%.</br> 
+**Epoch**: 10000</br>
+**MSE**(on testing set): < 0.03
 
 ### Example:
 A simple example can be seen as follows, witch means the fair price of the dormitory we lived may worth the value up to ￥5.8 million.</br> 
