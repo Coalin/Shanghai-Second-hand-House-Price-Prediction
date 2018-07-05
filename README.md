@@ -2,8 +2,8 @@
 This is a Course Project for Data Mining in School of Data Science, Fudan University.</br>
 
 ### Requirements: 
-* **Tensorflow r1.0.1**
-* Python 3.6
+* **Tensorflow 1.0.1**
+* **Python 3.6**
 
 ### Training data:
 Crawled from [Centanet](http://sh.centanet.com/) at April 2018.</br>
