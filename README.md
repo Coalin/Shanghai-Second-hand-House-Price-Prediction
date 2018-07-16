@@ -7,7 +7,7 @@ This is a **Course Project** for Data Mining(DATA620007) in School of Data Scien
 
 ### Training data:
 Crawled from [Centanet](http://sh.centanet.com/) at April 2018.</br>
-The crawling part was constructed by [Yan Zhiquan](https://github.com/KYZQ)</br>
+The crawling part was constructed by [Yan Zhiquan](https://github.com/KYZQ).</br>
 
 ### Model:
 **Structure**: Two-hidden-layer Full Connect Neural Network with 200 nodes and ReLU for each, as well as a Dropout with keep ratio of 75%.</br> 
