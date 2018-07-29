@@ -282,7 +282,7 @@ class Page1(Page):
                     print(prices)
                     sess.close()
 
-                result = round(1.2*prices[0], 2)
+                result = round(prices[0], 2)
                 overall = round(result * df_train['Area'], 2)
                 if result:
                     Result.set(str(result) + ' 元/平方米; ' + str(overall) + ' 元')
